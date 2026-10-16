@@ -1,0 +1,20 @@
+#counter{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+}
+#buttons{
+    text-align: center;
+}
+.button{
+    padding: 10px 20px;
+    font-size: 20px;
+    color:crimson;
+    background-color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.button:hover{
+    background-color: blueviolet;
+}
